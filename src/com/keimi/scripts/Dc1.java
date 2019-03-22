@@ -23,13 +23,13 @@ public class Dc1 {
 
 
     public static void main(String[] args) {
-        long start = System.nanoTime();
+//        long start = System.nanoTime();
 
         List<Integer> calculate = calculate(array);
         System.out.println(calculate);
 
-        long finish = System.nanoTime();
-        long timeElapsed = finish - start;
+//        long finish = System.nanoTime();
+//        long timeElapsed = finish - start;
 
 //        System.out.println("Time taken: " + timeElapsed);
 //
