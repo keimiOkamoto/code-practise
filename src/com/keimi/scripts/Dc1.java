@@ -36,6 +36,7 @@ public class Dc1 {
 //        List<Integer> calculate1 = calculate(Arrays.stream(array).boxed().collect(Collectors.toList()), 0, new ArrayList<>(), 20);
 //        System.out.println(calculate1);
 
+
     }
 
     public static List<Integer> calculate(int[] input) {
