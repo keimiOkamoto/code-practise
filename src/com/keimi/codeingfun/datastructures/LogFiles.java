@@ -1,4 +1,4 @@
-package com.keimi.codeingfun.datasstructures;
+package com.keimi.codeingfun.datastructures;
 
 import java.util.Arrays;
 import java.util.Comparator;
