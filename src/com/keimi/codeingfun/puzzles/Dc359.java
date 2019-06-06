@@ -1,4 +1,4 @@
-package com.keimi.scripts;
+package com.keimi.codeingfun.puzzles;
 
 /**
  * You are given a string formed by concatenating several words corresponding to the integers zero through nine and then anagramming.
@@ -8,4 +8,6 @@ package com.keimi.scripts;
  * Given this string, return the original integers in sorted order. In the example above, this would be 357.
  */
 public class Dc359 {
+
+
 }

@@ -1,4 +1,4 @@
-package com.keimi.scripts;
+package com.keimi.codeingfun.puzzles;
 
 import java.util.ArrayList;
 import java.util.Arrays;

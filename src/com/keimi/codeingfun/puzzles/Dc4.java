@@ -1,10 +1,7 @@
-package com.keimi.scripts;
+package com.keimi.codeingfun.puzzles;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
-
-import static java.util.stream.Collectors.toList;
 
 /**
  * Given an array of integers, find the first missing positive integer in linear time and constant space.

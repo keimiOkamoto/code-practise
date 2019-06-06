@@ -1,4 +1,4 @@
-package com.keimi.scripts;
+package com.keimi.codeingfun.puzzles;
 
 /**
  * Given the root to a binary tree, implement serialize(root),

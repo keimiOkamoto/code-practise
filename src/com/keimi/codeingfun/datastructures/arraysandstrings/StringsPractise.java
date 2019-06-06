@@ -1,14 +1,10 @@
-package com.keimi.codeingfun.datastructures;
+package com.keimi.codeingfun.datastructures.arraysandstrings;
 
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
+import java.util.stream.*;
 
-import static java.util.stream.Collectors.groupingBy;
-import static java.util.stream.Collectors.toMap;
 
-public class StringsPractice {
+class StringsPractice {
 
     public static void main(String[] args) {
         System.out.println(toUpperCase2("ham"));

@@ -1,4 +1,4 @@
-package com.keimi.scripts;
+package com.keimi.codeingfun.puzzles;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,8 +13,7 @@ public class Dc362 {
 
     private static final List ERROR_NUMBERS = Arrays.asList(3, 4, 7);
 
-
-    private static boolean isStrobogramaticNumber(int number) {
+    private static boolean isStrobogrammaticNumber(int number) {
         List<String> numbers = Arrays.asList(String.valueOf(number).split(""));
         if (containsErrorValue(number)) {
             return false;
@@ -51,7 +50,7 @@ public class Dc362 {
     }
 
     public static void main(String[] args) {
-        System.out.println(isStrobogramaticNumber(621689126));
+        System.out.println(isStrobogrammaticNumber(921689126));
     }
 }
 
